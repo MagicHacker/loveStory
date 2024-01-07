@@ -1,6 +1,7 @@
+// eslint-disable-next-line no-undef
 export default defineAppConfig({
   pages: [
-    'pages/index/index'
+    'pages/homePage/index'
   ],
   window: {
     backgroundTextStyle: 'light',
